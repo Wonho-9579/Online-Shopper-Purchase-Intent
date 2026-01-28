@@ -113,6 +113,7 @@ online-shopper-purchase-intent/
 │   └── feature_importance.png
 ├── requirements.txt
 └── README.md
+```
 
 ## Key Takeaways
 - Metric selection is critical when working with imbalanced datasets
